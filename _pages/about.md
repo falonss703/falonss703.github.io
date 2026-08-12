@@ -89,7 +89,7 @@ Do not hesitate to drop me an email for any possible collaboration if you are in
   
   **Jingze Wu**, Quan Zhang$^{\ast}$, Hongfei Suo, Zeqiang Cai, Hongbo Chen$^{\ast}$
 
-  [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026 (Poster)
+  [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026
   
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_Beyond_Perceptual_Shortcuts_Causal-Inspired_Debiasing_Optimization_for_Generalizable_Video_Reasoning_CVPR_2026_paper.pdf)[[Code]](https://github.com/falonss703/VideoThinker)
   
@@ -103,7 +103,7 @@ Do not hesitate to drop me an email for any possible collaboration if you are in
   
   Quan Zhang$\dagger$, Zeqiang Cai$\dagger$, Peiming Zhao, **Jingze Wu**, Cailun Wu, Hongbo Chen, Jianhuang Lai$^{\ast}$
 
-  [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026 (Poster)
+  [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026
   
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_View-Aware_Semantic_Alignment_for_Aerial-Ground_Person_Re-Identification_CVPR_2026_paper.pdf)[[Code]](https://github.com/Cat-Zero/ViSA)
   

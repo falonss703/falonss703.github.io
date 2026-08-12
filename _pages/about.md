@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Jingze Wu. I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/) with a Master's degree in Electronic Information, supervised by Hongbo Chen. Now, I am a Research Assistant at [Centre for Artificial Intelligence and Robotics](https://www.cair-cas.org.hk/), [Hong Kong Institute of Science & Innovation](https://www.hkisi.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), supervised by Assistant Professor Fei Zhu.
 
-🔈 **JOIN US!**
+💡 **Research Interests**
 
 My research seeks to build robust and generalizable multimodal intelligence, which will give robots truly smart brains that can perceive, reason, and interact with the physical world seamlessly. By bridging generation and understanding, I aim to enable AI systems to learn from limited data, continuously evolve through interaction, and generalize across diverse real-world scenarios. I focus on:
 

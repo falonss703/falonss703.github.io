@@ -208,4 +208,4 @@ Do not hesitate to drop me an email for any possible collaboration if you are in
 - Journal Reviewer
   - IEEE TNNLS
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2PAaw5Mcc-6zCfBfM92U4oYhcVmD7DXUzdbYIhKYI-0&cl=ffffff&w=a"></script>

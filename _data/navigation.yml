@@ -6,9 +6,6 @@ main:
   - title: "Work"
     url: "#work"
 
-  - title: "Talk"
-    url: "#talk"
-
   - title: "Publication"
     url: "#publication"
 

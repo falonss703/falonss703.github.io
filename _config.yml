@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Songlin Yang"
-description              : 
-repository               : "songlin1998/songlin.github.io"
+title                    : "Jingze Wu"
+description              :
+repository               : "falonss703/wujz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Songlin Yang"
+  name             : "Jingze Wu"
   avatar           : "images/profile.png"
-  bio              : "MMLab@HKUST"
+  bio              : "Research Assistant @ CAIR-CAS"
   location         : "Hong Kong"
-  employer         : 
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bb184bcAAAAJ"
-  email            : "syangds@connect.ust.hk"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=a4vXuoYAAAAJ&hl=en"
+  email            : "jingzewu1@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Songlin1998"
+  github           : "falonss703"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "songlin-yang-a50963226"
+  linkedin         : # "your-linkedin-id"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -67,6 +67,8 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - presentation_workplace
+  - vendor
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

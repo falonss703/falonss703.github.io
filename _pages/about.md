@@ -200,7 +200,7 @@ Do not hesitate to drop me an email for any possible collaboration if you are in
   </div>
 </div>
 
-# 🕴️ Professional Services
+# 🕴️ Academic Services
 {: #service }
 
 - Conference Reviewer

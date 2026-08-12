@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Jingze Wu. I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/) with a Master's degree in Electronic Information, supervised by Hongbo Chen. Now, I am a Research Assistant at [Centre for Artificial Intelligence and Robotics](https://www.cair-cas.org.hk/), [Hong Kong Institute of Science & Innovation](https://www.hkisi.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), supervised by Assistant Professor Fei Zhu.
+Hi, I am Jingze Wu. I graduated from [Sun Yat-sen University](https://www.sysu.edu.cn/) with a Master's degree in Electronic and Information Engineering, supervised by Hongbo Chen. Now, I am a Research Assistant at [Centre for Artificial Intelligence and Robotics](https://www.cair-cas.org.hk/), [Hong Kong Institute of Science & Innovation](https://www.hkisi.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), supervised by Assistant Professor Fei Zhu.
 
 💡 **Research Interests**
 
@@ -66,7 +66,7 @@ Do not hesitate to drop me an email for any possible collaboration if you are in
 # 👨‍🎓 Education
 {: #education }
 
-- **M.Eng. in Electronic Information, [Sun Yat-sen University](https://www.sysu.edu.cn/)**  
+- **M.Eng. in Electronic and Information Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/)**  
   Supervisors: Hongbo Chen
 
   Thesis: Causality-Enhanced Multimodal Large Language Model for Video Understanding

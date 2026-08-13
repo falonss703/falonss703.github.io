@@ -27,7 +27,7 @@ My research seeks to build robust and generalizable multimodal intelligence, whi
 - **Agent Harness**: Self-evolving agents
 - **Embodied AI**: Unified generation-understanding model for robot
 
-Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions!
+Do not hesitate to drop me an email for any possible idea if you are interested in these directions!
 
 # 🔥 News
 

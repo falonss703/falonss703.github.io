@@ -24,7 +24,7 @@ Hi, I am Jingze Wu. I graduated from [Sun Yat-sen University](https://www.sysu.e
 My research seeks to build robust and generalizable multimodal intelligence, which will give robots truly smart brains that can perceive, reason, and interact with the physical world seamlessly. By bridging generation and understanding, I aim to enable AI systems to learn from limited data, continuously evolve through interaction, and generalize across diverse real-world scenarios. Specifically, I focus on:
 
 - **Efficient Fine-Tuning Strategies**: Introducing causal priors and physical laws to maximize model training results and learning generalization with limited data
-- **Agent Harness**: Self-evolving intelligent agents
+- **Agent Harness**: Self-evolving agents
 - **Embodied AI**: Unified generation-understanding model for robot
 
 Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions!

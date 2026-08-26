@@ -67,7 +67,7 @@ Do not hesitate to drop me an email for any possible idea if you are interested 
 {: #education }
 
 - **M.Eng. in Electronic and Information Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/)**  
-  Supervisors: Hongbo Chen
+  Supervisor: Professor Hongbo Chen
 
   Thesis: Causality-Enhanced Multimodal Large Language Model for Video Understanding
 

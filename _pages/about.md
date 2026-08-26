@@ -115,7 +115,7 @@ Do not hesitate to drop me an email for any possible idea if you are interested 
   
   **Thinking Before Matching: A Reinforcement Reasoning Paradigm Towards General Person Re-Identification**
   
-  Quan Zhang$\dagger$, **Jingze Wu$\dagger$**, Jialong Wang, Xiaohua Xie, Jianhuang Lai$^{\ast}$, Hongbo Chen$^{\ast}$
+  Quan Zhang$\dagger$, **Jingze Wu$\dagger$** (Student first author), Jialong Wang, Xiaohua Xie, Jianhuang Lai$^{\ast}$, Hongbo Chen$^{\ast}$
 
   arXiv preprint arXiv:2604.19218, 2026
   
@@ -143,7 +143,7 @@ Do not hesitate to drop me an email for any possible idea if you are interested 
   
   **Reinforcing Video Reasoning with Focused Thinking**
   
-  Jisheng Dang$\dagger$, **Jingze Wu$\dagger$**, Teng Wang$^{\ast}$, Xuanhui Lin, Nannan Zhu, Hongbo Chen, Wei-Shi Zheng, Meng Wang, Tat-Seng Chua
+  Jisheng Dang$\dagger$, **Jingze Wu$\dagger$** (Student first author), Teng Wang$^{\ast}$, Xuanhui Lin, Nannan Zhu, Hongbo Chen, Wei-Shi Zheng, Meng Wang, Tat-Seng Chua
 
   [The 19th European Conference on Computer Vision](https://eccv.ecva.net/), 2026
   

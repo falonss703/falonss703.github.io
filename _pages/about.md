@@ -55,6 +55,7 @@ Do not hesitate to drop me an email for any possible idea if you are interested 
 </style>
 <div class="news-scroll">
 
+∙ 2026/08: One paper is accepted by EAAI JCR Q1.<br />
 ∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/02: Two papers are accepted by CVPR 2026.<br />
 ∙ 2025/11: One paper is accepted by AAAI 2026.<br />

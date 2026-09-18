@@ -83,7 +83,7 @@ Do not hesitate to drop me an email for any possible idea if you are interested 
 # 📝 Publications
 {: #publication }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr_2026_beyond.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/eaai_2026.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Causality-inspired kinematics-constrained adversarial trajectory generation for swarm intention recognition**

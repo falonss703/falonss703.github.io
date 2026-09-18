@@ -86,6 +86,21 @@ Do not hesitate to drop me an email for any possible idea if you are interested 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr_2026_beyond.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
+  **Causality-inspired kinematics-constrained adversarial trajectory generation for swarm intention recognition**
+  
+  Guanjun Wang, **Jingze Wu**, Hongbo Chen$^{\ast}$
+
+  [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), 2026
+  
+  [[Paper]](https://doi.org/10.1016/j.engappai.2026.116123)
+  
+  </div>
+  </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr_2026_beyond.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
   **Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs**
   
   **Jingze Wu**, Quan Zhang$^{\ast}$, Hongfei Suo, Zeqiang Cai, Hongbo Chen$^{\ast}$
